@@ -1,0 +1,18 @@
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\bin\Debug\HilosSC.exe
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\bin\Debug\HilosSC.pdb
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\HilosSC.Hilos_UI.resources
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\HilosSC.Properties.Resources.resources
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\HilosSC.exe
+C:\Documents and Settings\J Luis\Escritorio\HilosSC\HilosSC\obj\x86\Debug\HilosSC.pdb
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\bin\Debug\HilosSC.exe
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\bin\Debug\HilosSC.pdb
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\HilosSC.Hilos_UI.resources
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\HilosSC.Properties.Resources.resources
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\HilosSC.exe
+C:\Documents and Settings\J Luis\Escritorio\Copia de HilosSC\HilosSC\obj\x86\Debug\HilosSC.pdb
